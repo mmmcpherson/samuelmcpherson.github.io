@@ -8,6 +8,14 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
+accomplishments:
+- name: Paid car loan
+  timeline: "maybe a week overdue"
+  organization:
+    name: Bank of Mom
+    url: https://www.etsy.com/listing/676965091/bank-of-mom-svg-funny-mom-svg-mom-svg
+  courseOverview: let's put this to rest 
+
 
 # Your accomplishments
 accomplishments:
